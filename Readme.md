@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Юлия Лесик](https://up.htmlacademy.ru/javascript/4/user/66545).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Проваторов](https://htmlacademy.ru/profile/id202481).
 
 ---
 
